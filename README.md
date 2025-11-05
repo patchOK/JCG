@@ -1,3 +1,3 @@
-# (Work in Progress...)
+# Work in Progress...
 Java Chess Game (JCG) is a chess application built in Java following an object-oriented approach. It includes a graphical board, full movement logic for all pieces and rule enforcement such as check and checkmate detection.
 
